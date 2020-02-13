@@ -842,6 +842,7 @@ namespace MappingDiscount
 
         private void labelClose_Click(object sender, EventArgs e)
         {
+            //add comment
             main.Show();
             this.Close();
         }
