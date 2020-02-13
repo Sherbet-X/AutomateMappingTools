@@ -1,0 +1,161 @@
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\bin\Release\MappingDiscount.exe.config
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\bin\Release\MappingDiscount.exe
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\bin\Release\MappingDiscount.pdb
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\bin\Release\MetroFramework.Design.dll
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\bin\Release\MetroFramework.dll
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\bin\Release\MetroFramework.Fonts.dll
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Toolkit.pdb
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csprojAssemblyReference.cache
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\obj\Release\Interop.Microsoft.Office.Core.dll
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\obj\Release\Interop.VBIDE.dll
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csproj.ResolveComReference.cache
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.CoverDiscount.resources
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.CoverVas.resources
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.ViewDCData.resources
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.FormLogin.resources
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.ViewResult.resources
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.Properties.Resources.resources
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.ViewVasData.resources
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csproj.GenerateResource.cache
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csproj.CoreCompileInputs.cache
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csproj.CopyComplete
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.exe
+D:\Kate\Work\Work\Dep\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\bin\Release\MappingDiscount.exe.config
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\bin\Release\MappingDiscount.exe
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\bin\Release\MappingDiscount.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Design.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Docking.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Navigator.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Ribbon.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Workspace.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\bin\Release\MetroFramework.Design.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\bin\Release\MetroFramework.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\bin\Release\MetroFramework.Fonts.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Design.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Docking.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Navigator.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Ribbon.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Toolkit.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Workspace.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\obj\Release\Interop.Microsoft.Office.Core.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\obj\Release\Interop.VBIDE.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csproj.ResolveComReference.cache
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.CoverDiscount.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.CoverHispeed.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.CoverVas.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.ViewDCData.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.FormLogin.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.ViewHispeed.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.ViewResult.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.Properties.Resources.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.ViewVasData.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csproj.GenerateResource.cache
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csproj.CoreCompileInputs.cache
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csproj.CopyComplete
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.exe
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\09042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csprojAssemblyReference.cache
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\bin\Release\MappingDiscount.exe.config
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\bin\Release\MappingDiscount.exe
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\bin\Release\MappingDiscount.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Design.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Docking.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Navigator.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Ribbon.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Workspace.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\bin\Release\MetroFramework.Design.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\bin\Release\MetroFramework.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\bin\Release\MetroFramework.Fonts.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Design.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Docking.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Navigator.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Ribbon.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Toolkit.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Workspace.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csprojAssemblyReference.cache
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\obj\Release\Interop.Microsoft.Office.Core.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\obj\Release\Interop.VBIDE.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csproj.ResolveComReference.cache
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.CoverDiscount.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.CoverHispeed.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.CoverVas.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.ViewDCData.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.FormLogin.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.ViewHispeed.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.ViewResult.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.Properties.Resources.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.ViewVasData.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csproj.GenerateResource.cache
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csproj.CoreCompileInputs.cache
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csproj.CopyComplete
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.exe
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\10042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\bin\Release\MappingDiscount.exe.config
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\bin\Release\MappingDiscount.exe
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\bin\Release\MappingDiscount.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Design.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Docking.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Navigator.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Ribbon.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Workspace.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\bin\Release\MetroFramework.Design.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\bin\Release\MetroFramework.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\bin\Release\MetroFramework.Fonts.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Design.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Docking.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Navigator.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Ribbon.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Toolkit.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\bin\Release\ComponentFactory.Krypton.Workspace.pdb
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csprojAssemblyReference.cache
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\obj\Release\Interop.Microsoft.Office.Core.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\obj\Release\Interop.VBIDE.dll
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csproj.ResolveComReference.cache
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.CoverDiscount.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.CoverHispeed.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.CoverVas.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.ViewDCData.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.FormLogin.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.ViewHispeed.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.ViewResult.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.Properties.Resources.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.ViewVasData.resources
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csproj.GenerateResource.cache
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csproj.CoreCompileInputs.cache
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csproj.CopyComplete
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.exe
+D:\Kate\Work\Work\Depvelop\BackUp\Mapping Discount\18042019\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.pdb
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\bin\Release\MappingDiscount.exe.config
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\bin\Release\MappingDiscount.exe
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\bin\Release\MappingDiscount.pdb
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\bin\Release\MetroFramework.Design.dll
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\bin\Release\MetroFramework.dll
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\bin\Release\MetroFramework.Fonts.dll
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csprojAssemblyReference.cache
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\Interop.Microsoft.Office.Core.dll
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\Interop.VBIDE.dll
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csproj.ResolveComReference.cache
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.CoverDiscount.resources
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.CoverHispeed.resources
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.CoverVas.resources
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.ViewDCData.resources
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.FormLogin.resources
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.ViewHispeed.resources
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.ViewResult.resources
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.Properties.Resources.resources
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.ViewVasData.resources
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csproj.GenerateResource.cache
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csproj.CoreCompileInputs.cache
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.csproj.CopyComplete
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.exe
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.pdb

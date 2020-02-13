@@ -1,0 +1,48 @@
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\bin\Release\AutomateMappingTool.exe.config
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\bin\Release\AutomateMappingTool.exe
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\bin\Release\AutomateMappingTool.pdb
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\bin\Release\MetroFramework.Design.dll
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\bin\Release\MetroFramework.dll
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\bin\Release\MetroFramework.Fonts.dll
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\Interop.Microsoft.Office.Core.dll
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\Interop.VBIDE.dll
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\AutomateMappingTool.csproj.ResolveComReference.cache
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.HomeDiscount.resources
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.HomeHispeed.resources
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.HomeVas.resources
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.DialogMessage.resources
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.MainDiscount.resources
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.FormLogin.resources
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.MainHispeed.resources
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.ViewResult.resources
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\AutomateMappingTool.Properties.Resources.resources
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\MappingDiscount.MainVas.resources
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\AutomateMappingTool.csproj.GenerateResource.Cache
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\AutomateMappingTool.exe
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\AutomateMappingTool.pdb
+D:\Kate\Work\Work\Depvelop\MappingDiscount\MappingDiscount\obj\Release\AutomateMappingTool.csprojResolveAssemblyReference.cache
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\bin\Release\AutomateMappingTool.exe.config
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\obj\Release\Interop.Microsoft.Office.Core.dll
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\obj\Release\Interop.VBIDE.dll
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\obj\Release\AutomateMappingTool.csproj.ResolveComReference.cache
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\obj\Release\AutomateMappingTool.exe
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\obj\Release\AutomateMappingTool.pdb
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\bin\Release\AutomateMappingTool.exe
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\bin\Release\AutomateMappingTool.pdb
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\bin\Release\MetroFramework.Design.dll
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\bin\Release\MetroFramework.dll
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\bin\Release\MetroFramework.Fonts.dll
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\obj\Release\AutomateMappingTool.csprojResolveAssemblyReference.cache
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\obj\Release\MappingDiscount.HomeDiscount.resources
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\obj\Release\MappingDiscount.HomeHispeed.resources
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\obj\Release\MappingDiscount.HomeVas.resources
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\obj\Release\MappingDiscount.DialogMessage.resources
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\obj\Release\MappingDiscount.MainDiscount.resources
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\obj\Release\MappingDiscount.FormLogin.resources
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\obj\Release\MappingDiscount.MainHispeed.resources
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\obj\Release\MappingDiscount.ViewResult.resources
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\obj\Release\AutomateMappingTool.Properties.Resources.resources
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\obj\Release\MappingDiscount.MainVas.resources
+D:\Kate\Work\Development Project\Automate Mapping Tool\Coding\MappingDiscount\obj\Release\AutomateMappingTool.csproj.GenerateResource.Cache
