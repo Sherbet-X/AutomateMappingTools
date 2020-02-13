@@ -845,6 +845,7 @@ namespace MappingDiscount
             main.Show();
             this.Close();
             MessageBox.Show("Exist!!");
+            //comment
         }
 
         private void ViewResult_SizeChanged(object sender, EventArgs e)
