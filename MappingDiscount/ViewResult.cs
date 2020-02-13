@@ -845,6 +845,8 @@ namespace MappingDiscount
             //add comment
             main.Show();
             this.Close();
+            MessageBox.Show("Exist!!");
+            //comment
         }
 
         private void ViewResult_SizeChanged(object sender, EventArgs e)
@@ -861,7 +863,6 @@ namespace MappingDiscount
 
             dataGridViewResult.Size = new Size(w, h - 280);
         }
-
 
         private void panel1_MouseDown(object sender, MouseEventArgs e)
         {
