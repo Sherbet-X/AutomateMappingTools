@@ -861,6 +861,7 @@ namespace MappingDiscount
             dataGridViewResult.Size = new Size(w, h - 280);
         }
 
+
         private void panel1_MouseDown(object sender, MouseEventArgs e)
         {
             mov = 1;

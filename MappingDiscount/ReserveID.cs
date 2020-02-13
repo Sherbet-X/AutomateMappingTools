@@ -166,6 +166,7 @@ namespace AutomateMappingTool
                 ConnectionTemp.Close();
 
                 Environment.Exit(0);
+
             }
 
             return minID;
